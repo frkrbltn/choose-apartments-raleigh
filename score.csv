@@ -1,0 +1,45 @@
+name,price,bedroom,bathroom,available_unit,square,crime_rate,brand_new,google_star,neighborhood,zip_code,Score
+Patriot Point Apartment Homes,1035,2,2.0,6,936.0,UnKnown,False,4.4,Spring Lake,28390,0.9593939393939395
+Tamarack on the Lake Apartments,1046,2,2.0,0,961.0,UnKnown,False,3.9,Fayetteville,28311,0.907920412920413
+Pines of Ashton,1090,2,1.0,4,940.0,UnKnown,False,4.1,Raleigh,27610,0.7953596403596404
+Bridges at North Hills,1132,2,1.0,5,960.0,UnKnown,False,3.4,Raleigh,27609,0.6867582417582418
+The Element Apartments,1200,2,1.5,1,1012.0,UnKnown,False,3.9,Durham,27704,0.6630486180486179
+Bridges at North Hills,1208,2,2.0,4,1000.0,UnKnown,False,3.4,Raleigh,27609,0.649029304029304
+Wynsum Townhomes,1250,2,1.5,1,1010.0,UnKnown,False,4.5,Raleigh,27610,0.638003663003663
+The Gregory North and South Apartment Homes,1196,2,2.0,3,938.0,UnKnown,False,2.7,Cary,27513,0.6146037296037296
+Grand Arbor Reserve Apartment Homes,1232,2,2.0,1,1095.0,UnKnown,False,3.3,Raleigh,27607,0.6087895437895436
+The Domain Apartments,1200,2,1.0,1,1060.0,UnKnown,False,3.6,Raleigh,27616,0.6078971028971029
+The Domain Apartments,1250,2,2.0,1,1149.0,UnKnown,False,3.6,Raleigh,27616,0.6058824508824509
+Lexington on the Green,1190,2,1.0,1,1062.0,UnKnown,False,3.3,Raleigh,27604,0.5998151848151847
+Brook Hill Townhouse Apartments,1220,2,1.5,5,827.0,UnKnown,False,3.4,Raleigh,27606,0.5992124542124543
+Andover at Crabtree,1282,2,2.0,1,1025.0,UnKnown,False,4.0,Raleigh,27613,0.591017316017316
+Grand Arbor Reserve Apartment Homes,1232,2,1.5,2,1075.0,UnKnown,False,3.3,Raleigh,27607,0.5754562104562103
+Madison Hunters Glen,1299,2,2.0,1,1099.0,UnKnown,False,3.9,Raleigh,27606,0.5603929403929404
+The Waterford,1258,2,1.0,1,900.0,UnKnown,False,3.6,Morisville,27560,0.5282267732267732
+The Waterford Apartments,1258,2,1.0,1,900.0,UnKnown,False,3.6,Morisville,27560,0.5282267732267732
+Skyside Landing Apartments,1275,2,2.0,1,1100.0,UnKnown,False,3.0,Fayetteville,28314,0.5279054279054278
+Midtown Crossing,1329,2,2.0,20,908.0,UnKnown,False,3.8,Raleigh,27609,0.5119114219114218
+Legacy Six Forks,1275,2,2.0,2,987.0,UnKnown,False,2.7,Raleigh,27609,0.506087246087246
+West Oak Apartments,1295,2,1.0,1,800.0,UnKnown,True,3.8,Wake Forest,27587,0.4919480519480519
+"River Haven,",1285,2,1.0,7,880.0,UnKnown,False,3.6,Raleigh,27616,0.49113886113886107
+Woodlyn on the Green Apartment Homes,1319,2,2.0,8,1104.0,UnKnown,False,3.3,Cary,27511,0.4892840492840491
+Aurella Cary,1290,2,2.0,4,950.0,UnKnown,False,2.7,Cary,27511,0.48548285048285045
+MAA Hermitage,1378,2,2.0,2,900.0,UnKnown,False,4.3,Cary,27513,0.4809673659673659
+The Parke at Trinity Apartment Home,1341,2,2.0,2,901.0,UnKnown,False,3.5,Raleigh,27606,0.47360972360972353
+Camden Reunion Park,1379,2,2.0,3,961.0,UnKnown,False,4.0,Apex,27539,0.45777555777555773
+Averelle North Hills,1300,2,1.0,2,836.0,UnKnown,True,3.4,Raleigh,27609,0.455989010989011
+The Garden at Wynslow Park,1399,2,2.0,1,1075.0,UnKnown,False,4.3,Raleigh,27616,0.45212121212121215
+Rose Heights Apartments,1333,2,2.0,1,996.0,UnKnown,False,2.9,Raleigh,27613,0.44096237096237084
+Averelle North Hills,1380,2,2.0,-1,930.0,UnKnown,False,3.4,Raleigh,27609,0.4127655677655677
+Enclave @ Crabtree,1375,2,1.0,1,858.0,UnKnown,False,4.0,Raleigh,27612,0.39660339660339655
+Woodcreek Apartments,1384,2,1.0,1,811.0,UnKnown,False,4.1,Cary,27511,0.39151348651348644
+Brook Hill Townhouse Apartments,1375,2,1.5,4,827.0,UnKnown,False,3.4,Raleigh,27606,0.38630036630036624
+Camden Overlook Apartments,1399,2,1.0,11,935.0,UnKnown,False,4.0,Raleigh,27612,0.3636363636363637
+8123 Farmlea Cir,1200,2,1.5,1,919.0,UnKnown,False,-1.0,Raleigh,27610,0.3066849816849816
+5808 Falls Of Neuse Rd,1225,2,2.0,1,1010.0,UnKnown,False,-1.0,Raleigh,27609,0.3056776556776555
+"4941, APT B, 4941 Pebble Beach Dr",1250,2,2.0,1,1000.0,UnKnown,False,-1.0,Raleigh,27616,0.27133699633699626
+928 Hearthridge Ct,1295,2,2.5,1,1020.0,UnKnown,False,-1.0,Raleigh,27609,0.24285714285714277
+MATT4721,1295,2,2.0,1,1000.0,UnKnown,False,-1.0,Raleigh,27604,0.20952380952380945
+2837 Seclusion Ct,1325,2,2.0,1,1000.0,UnKnown,False,-1.0,Raleigh,27612,0.16831501831501816
+1950 Trailwood Heights Ln,1350,2,2.0,1,893.0,UnKnown,False,-1.0,Raleigh,27603,0.13397435897435894
+4100 Sedgewood Dr,1350,2,2.0,1,1063.0,UnKnown,False,-1.0,Raleigh,27612,0.13397435897435894
